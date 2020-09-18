@@ -5,8 +5,6 @@
 
 ### Projeto desenvolvido durante a #NextLevelWeek da [Rocketseat] utilizando as tecnologias **React**, **React Native** e **Node.js**.
 
-![Desktop and Mobile](.github/proffyDesktopAndMobile.png)
-
 </div>
 
 ## :bookmark: Sobre
