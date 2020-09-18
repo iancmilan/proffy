@@ -1,3 +1,13 @@
+<div align="center">
+
 ![Project Image](.github/proffy.png)
 
-Proffy é um projeto desenvolvido durante a #NextLevelWeek da [Rocket Seat](https://rocketseat.com.br/) utilizando as tecnologias **React**, **React Native** e **Node.js**
+Projeto desenvolvido durante a #NextLevelWeek da [Rocketseat] utilizando as tecnologias **React**, **React Native** e **Node.js**.
+
+</div>
+
+## :bookmark: Sobre
+
+O **Proffy** é uma plataforma de estudos online que conecta alunos com professores.
+<!-- Links -->
+[Rocketseat]: https://rocketseat.com.br/
