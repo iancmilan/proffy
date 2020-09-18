@@ -3,7 +3,8 @@
 ![Project Image](.github/proffy.png)
 ![web] ![server] ![mobile] ![top_language] ![license]
 
-Projeto desenvolvido durante a #NextLevelWeek da [Rocketseat] utilizando as tecnologias **React**, **React Native** e **Node.js**.
+<h2>Projeto desenvolvido durante a #NextLevelWeek da [Rocketseat] utilizando as tecnologias **React**, **React Native** e **Node.js**.</h2>
+--
 
 </div>
 
