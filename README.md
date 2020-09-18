@@ -67,4 +67,4 @@ Esse projeto está sobre a [MIT License](LICENSE).
 [mobile]: https://img.shields.io/badge/mobile-React%20Native-63DAFA?style=flat-square
 [top_language]: https://img.shields.io/github/languages/top/iancmilan/proffy?style=flat-square
 [license]: https://img.shields.io/github/license/iancmilan/proffy?style=flat-square
-[repo-size]: https://img.shields.io/github/repo-size/iancmilan/proffy
+[repo-size]: https://img.shields.io/github/repo-size/iancmilan/proffy?style=flat-square
