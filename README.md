@@ -63,7 +63,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ```
 ## :memo: Licença
 
-Esse projeto está sobre a [MIT License](LICENSE).
+Esse projeto está sob licensa [MIT](LICENSE).
 
 <!-- Links -->
 [Rocketseat]: https://rocketseat.com.br/
